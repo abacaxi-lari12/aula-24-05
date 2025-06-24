@@ -3,7 +3,5 @@ funcao inicio(){
 real n1
 n1=2+2
 escreva("dois mais dois sera: ",n1)
-
-
  }
 }
