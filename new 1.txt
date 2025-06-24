@@ -1,7 +1,9 @@
 programa{
 funcao inicio(){
-real n1
+real n1,n2
 n1=2+2
+n2=2*2
 escreva("dois mais dois sera: ",n1)
+escreva("dois vezes dois sera: ",n2)
  }
 }
