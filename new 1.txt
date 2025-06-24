@@ -1,9 +1,11 @@
 programa{
 funcao inicio(){
-real n1,n2
+real n1,n2,n3
 n1=2+2
 n2=2*2
+n3=2/2
 escreva("dois mais dois sera: ",n1)
 escreva("dois vezes dois sera: ",n2)
+escreva("dois dividido por dois sera: ",n3)
  }
 }
